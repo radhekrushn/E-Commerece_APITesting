@@ -1,0 +1,31 @@
+E-commerce Application RESP API : 
+
+1 : User module
+
+1 : https://restapilive.onrender.com/userreg	
+
+* for this regisration when we add blank data for all field, it's succesffuly save.
+* for mobile number field, when we add invaliod character for phno field ex : 54654, it's successfylly save.
+* for email id field, if i not enter @ sign, it's successfully save.
+* * if uaer enter invalid phno, it's not giver prop0er validation
+
+* without add any data, and click on sending, it's successfully save.
+
+2 : 	https://restapilive.onrender.com/userlogin	
+
+
+ * for this, if we 
+* without add any data, and click on sending, it's successfully save, here require proper validation message for this.
+
+
+2 : Admin Module : 
+
+	https://restapilive.onrender.com/alogin
+
+ For this : if user not enter valid email id, not show any erro message.
+
+ * Product catgeroies: 
+ if user not pass any valid data, then reqire proper validation.
+
+
+
